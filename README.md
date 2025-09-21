@@ -144,4 +144,4 @@ Pull requests are welcome ✨
 
 MIT © 2025 [Ramazan Nuhbalayev](mailto:example@example.com)
 
-> **Note:** To avoid spam, you can obfuscate your email in the README, e.g. `example[at]example.com`.
+
