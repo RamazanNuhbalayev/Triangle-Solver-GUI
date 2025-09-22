@@ -40,9 +40,9 @@ The interface is in **Azerbaijani**, making it handy for math teachers and stude
 
 ## Screenshots
 
-| Calculation Window                   | Drawn Sketch                                   |
-| ------------------------------------ | ---------------------------------------------- |
-| ![App Window](assets/app_window.png) | ![Triangle Sketch](assets/triangle_sketch.png) |
+| Window|
+| ------------------------------------ |
+| ![App Window](/Üçbucaq Projem.gif) | 
 
 > Store PNG/JPG images in the `assets/` folder so they render directly in the README.
 
