@@ -40,9 +40,9 @@ The interface is in **Azerbaijani**, making it handy for math teachers and stude
 
 ## Screenshots
 
-| Window|
+| Window ScreenRecord|
 | ------------------------------------ |
-| ![App Window](/Üçbucaq Projem.gif) | 
+| ![App Window](assets/TriangleProjectScreenRecord.gif) | 
 
 > Store PNG/JPG images in the `assets/` folder so they render directly in the README.
 
